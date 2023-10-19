@@ -5,5 +5,5 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.SEG2105Lab5" parent="Base.Theme.SEG2105Lab5" />
+    <style name="Theme.SEG2105Lab5" parent="Base.Theme.SEG2105Lab5"/>
 </resources>
