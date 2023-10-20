@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace = "com.example.seg2105lab5"
+    namespace = "com.sherman0477.lab5"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.seg2105lab5"
-        minSdk = 22
+        applicationId = "com.sherman0477.lab5"
+        minSdk = 24
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"

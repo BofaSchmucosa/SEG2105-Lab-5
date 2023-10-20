@@ -1,4 +1,4 @@
-package com.example.seg2105lab5;
+package com.sherman0477.lab5;
 
 import org.junit.Test;
 

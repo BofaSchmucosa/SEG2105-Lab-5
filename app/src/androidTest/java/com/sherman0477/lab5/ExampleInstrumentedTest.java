@@ -1,6 +1,7 @@
-package com.example.seg2105lab5;
+package com.sherman0477.lab5;
 
 import android.content.Context;
+
 import androidx.test.platform.app.InstrumentationRegistry;
 import androidx.test.ext.junit.runners.AndroidJUnit4;
 
@@ -20,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.seg2105lab5", appContext.getPackageName());
+        assertEquals("com.sherman0477.lab5", appContext.getPackageName());
     }
 }

@@ -1,6 +1,7 @@
-package com.example.seg2105lab5;
+package com.sherman0477.lab5;
 
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
