@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "897540327769",
+    "firebase_url": "https://seg2105-lab-5-95906-default-rtdb.firebaseio.com",
+    "project_id": "seg2105-lab-5-95906",
+    "storage_bucket": "seg2105-lab-5-95906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897540327769:android:5f08e956e36320842ce448",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD7U7b3P4wxEOcdOqzCy3W2NdCCe7dpVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897540327769:android:831307970dd72e7e2ce448",
+        "android_client_info": {
+          "package_name": "com.sherman0477.lab5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD7U7b3P4wxEOcdOqzCy3W2NdCCe7dpVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
